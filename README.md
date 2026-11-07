@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/p-niranjan-web/nrjNET/actions/workflows/tests.yml"><img src="https://github.com/p-niranjan-web/nrjNET/actions/workflows/tests.yml/badge.svg" alt="tests"></a>
+  <a href="https://github.com/nrjai/nrjNET/actions/workflows/tests.yml"><img src="https://github.com/nrjai/nrjNET/actions/workflows/tests.yml/badge.svg" alt="tests"></a>
   <img src="https://img.shields.io/badge/python-3.8%2B-8b5cf6?logo=python&logoColor=white" alt="python 3.8+">
   <img src="https://img.shields.io/badge/dependencies-zero-34d399" alt="zero dependencies">
   <img src="https://img.shields.io/badge/gradients-verified%20vs%20PyTorch-ff7eb6?logo=pytorch&logoColor=white" alt="verified vs PyTorch">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/p-niranjan-web/nrjNET/blob/main/notebooks/nrjNET_from_scratch.ipynb">
+  <a href="https://colab.research.google.com/github/nrjai/nrjNET/blob/main/notebooks/nrjNET_from_scratch.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open the notebook in Colab">
   </a>
 </p>
@@ -43,7 +43,7 @@ and every prediction (💚 green) lands right next to its target.
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/p-niranjan-web/nrjNET.git
+git clone https://github.com/nrjai/nrjNET.git
 cd nrjNET
 pip install -e .            # installs nrjnet (it has zero dependencies!)
 
@@ -59,7 +59,7 @@ step  10   loss 0.213094
 step  99   loss 0.011572
 ```
 
-Or skip the setup and **[open the notebook in Colab](https://colab.research.google.com/github/p-niranjan-web/nrjNET/blob/main/notebooks/nrjNET_from_scratch.ipynb)** 📓
+Or skip the setup and **[open the notebook in Colab](https://colab.research.google.com/github/nrjai/nrjNET/blob/main/notebooks/nrjNET_from_scratch.ipynb)** 📓
 
 ## 🧠 How it works
 
@@ -195,6 +195,6 @@ The original notebook is kept in [`notebooks/archive/`](notebooks/archive/) as a
 ## 💜 Credits
 
 - [Andrej Karpathy](https://github.com/karpathy) for the lecture and the original [micrograd](https://github.com/karpathy/micrograd), which this project follows closely
-- Built and documented by [Niranjan P](https://github.com/p-niranjan-web) as a learning project
+- Built and documented by [Niranjan P](https://github.com/nrjai) as a learning project
 
 <p align="center"><sub>made with 🧠 + ☕ — one gradient at a time</sub></p>

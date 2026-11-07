@@ -1,0 +1,7 @@
+# The nrjnet library itself needs NO packages - just Python.
+# These are only for the notebook, graph drawing, and the PyTorch comparison test.
+numpy
+matplotlib
+graphviz
+jupyter
+torch

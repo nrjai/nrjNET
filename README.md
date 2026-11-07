@@ -21,7 +21,7 @@
 ## 👋 Hi! This is nrjNET
 
 **nrjNET** is my very first neural network, built **completely from scratch** in plain Python.
-No PyTorch, no TensorFlow, no NumPy — just ~200 lines of code where I wrote every single piece myself:
+No PyTorch, no TensorFlow, no NumPy — just ~250 lines of code where I wrote every single piece myself:
 
 - 🔢 a tiny **autograd engine** that computes gradients automatically
 - 🔗 **backpropagation** using the chain rule
